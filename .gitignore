@@ -1,0 +1,13 @@
+# Hide everything
+*
+
+# But include .cpp files
+!*.cpp
+
+# Keep .gitignore file
+!.gitignore
+
+# Optional: Keep directories
+!*/
+
+.vscode
